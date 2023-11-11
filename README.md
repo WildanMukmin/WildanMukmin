@@ -21,10 +21,6 @@ Berikut adalah beberapa proyek terbaru yang saya kerjakan atau saya kontribusika
 1. [Treasure Hunt](https://github.com/WildanMukmin/ProjectUAS): Peran saya dalam projek ini yaitu seorang yang mengatur alur program dan management data.
 
 
-## Statistik GitHub
-
-![My Profile](https://github.com/WildanMukmin)
-
 ## Cara Menghubungi Saya
 
 Anda dapat mencari saya di beberapa platform:
