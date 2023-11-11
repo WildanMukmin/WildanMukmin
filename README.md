@@ -23,13 +23,13 @@ Berikut adalah beberapa proyek terbaru yang saya kerjakan atau saya kontribusika
 
 ## Statistik GitHub
 
-![Statistik GitHub](https://github.com/WildanMukmin)
+![My Profile](https://github.com/WildanMukmin)
 
 ## Cara Menghubungi Saya
 
 Anda dapat mencari saya di beberapa platform:
 
-- 📧 Email: Wildan Mukmin
+- 📧 Email: [Wildan Mukmin]
 - 💬 LinkedIn: -
 - 🐦 Twitter: -
 
