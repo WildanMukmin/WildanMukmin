@@ -11,7 +11,7 @@ Selamat datang di profil GitHub saya! 👋 Saya Wildan Mukmin, seorang Mahasiswa
 ## Keahlian
 
 - 💻 Bahasa pemrograman favorit: Java-Script
-- 🛠️ Teknologi yang sering saya gunakan: MERN
+- 🛠️ Teknologi yang sering saya gunakan: NextJs, Laravel
 - 📚 Saya terus belajar dan mengembangkan keterampilan saya di Software Development
 
 ## Projek
@@ -19,13 +19,13 @@ Selamat datang di profil GitHub saya! 👋 Saya Wildan Mukmin, seorang Mahasiswa
 Berikut adalah beberapa proyek terbaru yang saya kerjakan atau saya kontribusikan:
 
 1. [Treasure Hunt](https://github.com/WildanMukmin/ProjectUAS): Peran saya dalam projek ini yaitu seorang yang mengatur alur program dan management data.
-
+2. dll
 
 ## Cara Menghubungi Saya
 
 Anda dapat mencari saya di beberapa platform:
 
-- 📧 Email: [Wildan Mukmin]
+- 📧 Email: -
 - 💬 LinkedIn: -
 - 🐦 Twitter: -
 
